@@ -1,5 +1,5 @@
 # Guide-for-WebDav-HuggingFace-TelDrive
-##All Credits to ./rin to have helped me to set up everything. Warning: I am not gonna explain how HF works here, if you do not know how watch the previous tutorial. 
+## All Credits to ./rin to have helped me to set up everything. Warning: I am not gonna explain how HF works here, if you do not know how watch the previous tutorial. 
 1 Go to https://huggingface.co/new-space  and create a new public Docker space 
 2 Create a file called .gitattributes (Might not be needed but tbh better having it)  and put this inside: 
 ```
