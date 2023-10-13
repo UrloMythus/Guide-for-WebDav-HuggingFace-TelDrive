@@ -116,8 +116,11 @@ access_token = your cookie
 api_host = your hf link
 ```
 6 If you do not know how to get the cookie follow this: For Firefox click F12 or CNTRL+SHIFT+I and go into the storage section. From there you will see a cookie called user_session: copy it. For Chromium based browser the process is similar tho instead of going into the Storage section, go into the Application section and then into the Cookies section. 
+
 7 Create a Secret var. In the first field insert: RCLONE_CONFIG_BASE64 In the second Field: the value that we got from before (your base64). 
+
 8 Create another Secret var. First field: "USER" Second Field: Whatever you want as username
+
 9 Create another Secret var. First Field: "PASS" Second Field: Whatever you want as pass
 
 P.S. Remember you can mount the WebDav on your file system. To do that just follow the guides online. 
